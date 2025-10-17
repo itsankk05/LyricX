@@ -1,0 +1,8 @@
+pygame==2.6.1
+numpy==2.3.4
+librosa==0.11.0
+soundfile==0.13.1
+syncedlyrics
+yt-dlp
+python-vlc
+pyperclip

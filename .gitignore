@@ -1,0 +1,52 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Logs and coverage
+*.log
+logs/
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# Caches
+.cache/
+
+# Local environment files
+.env
+.env.*
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Optional: ignore large media (uncomment if desired)
+# *.mp3
+# *.wav
+# *.flac
